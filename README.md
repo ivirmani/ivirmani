@@ -1,7 +1,7 @@
 Hi 👋 My name is Ishaan Virmani 😁
 ===================================
 
-* 🌍  I'm based in Melbourne, a Data science student at Monash University
+* 🌍  I'm based in Melbourne, a Master of Data Science student at Monash University
 * 🏢  I've worked at Boeing India Pvt. Ltd. as an Associate Software Engineer
 * ✉️  You can contact me at [ivirmani@gmail.com](mailto:ivirmani@gmail.com)
 * 🧠  I'm learning Angular and React
